@@ -1,4 +1,4 @@
-项目预览图:   
+项目概览图:   
     
 ![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Scips/imgs/1.png)  
 ![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Scips/imgs/2.png)  
