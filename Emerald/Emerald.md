@@ -1,6 +1,6 @@
 项目预览图:   
     
-![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Emerald/imgs/1.jpg){:width="30%"}
+![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Emerald/imgs/1.jpg){:width="100px"}
 ![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Emerald/imgs/2.jpg)
 ![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Emerald/imgs/3.jpg)
 ![Image text](https://github.com/sq-github/ProjectInfoImg/raw/master/Emerald/imgs/4.jpg)
